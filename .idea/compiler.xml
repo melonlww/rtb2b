@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rt_b2b_service_common" />
+        <module name="rt_b2b_service_module_default" />
+        <module name="rt_b2b_service_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rt_b2b_service_common" target="1.7" />
+      <module name="rt_b2b_service_module_default" target="1.7" />
+      <module name="rt_b2b_service_parent" target="1.5" />
+      <module name="rt_b2b_service_web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

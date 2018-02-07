@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: fcc-base:fcc-core:0.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/fcc-base/fcc-core/0.0.2-SNAPSHOT/fcc-core-0.0.2-20170510.071632-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/fcc-base/fcc-core/0.0.2-SNAPSHOT/fcc-core-0.0.2-20170510.071632-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/fcc-base/fcc-core/0.0.2-SNAPSHOT/fcc-core-0.0.2-20170510.071632-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

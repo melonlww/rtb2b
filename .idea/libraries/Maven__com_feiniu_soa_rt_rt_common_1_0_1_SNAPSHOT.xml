@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.feiniu.soa.rt:rt_common:1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/feiniu/soa/rt/rt_common/1.0.1-SNAPSHOT/rt_common-1.0.1-20180204.073415-50.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/feiniu/soa/rt/rt_common/1.0.1-SNAPSHOT/rt_common-1.0.1-20180204.073415-50-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/feiniu/soa/rt/rt_common/1.0.1-SNAPSHOT/rt_common-1.0.1-20180204.073415-50-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

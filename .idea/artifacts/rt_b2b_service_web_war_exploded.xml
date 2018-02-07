@@ -1,0 +1,115 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="rt_b2b_service_web:war exploded">
+    <output-path>$PROJECT_DIR$/rt_b2b_service_web/target/rtbtobservice</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="rt_b2b_service_web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="rt_b2b_service_common-1.0.0-SNAPSHOT.jar">
+            <element id="module-output" name="rt_b2b_service_common" />
+          </element>
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/feiniu/soa/rt/rt_common/1.0.1-SNAPSHOT/rt_common-1.0.1-20180204.073415-50.jar" output-file-name="rt_common-1.0.1-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.6" />
+          <element id="library" level="project" name="Maven: jline:jline:0.9.94" />
+          <element id="library" level="project" name="Maven: io.netty:netty:3.7.0.Final" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.0" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.3.1" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.0" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.2" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-access:1.1.2" />
+          <element id="library" level="project" name="Maven: commons-httpclient:commons-httpclient:3.1-rc1" />
+          <element id="library" level="project" name="Maven: c3p0:c3p0:0.9.1.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper:5.0.4" />
+          <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:0.9.1" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.6" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.6" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.4" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.34" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.7.4" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.7.4" />
+          <element id="library" level="project" name="Maven: cglib:cglib-nodep:2.2" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.1.35" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.3.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.3.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.3.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.3.4" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.4" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.9" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.2" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-collections4:4.0" />
+          <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache-core:2.1.0" />
+          <element id="library" level="project" name="Maven: com.oracle:ojdbc14:10.2.0.4.0" />
+          <element id="library" level="project" name="Maven: net.sf.barcode4j:barcode4j-light:2.0" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.3.04" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+          <element id="library" level="project" name="Maven: org.apache.archiva.redback.components:spring-quartz:2.1" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: javax.annotation:jsr250-api:1.0" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:2.2.1" />
+          <element id="library" level="project" name="Maven: org.jdom:jdom2:2.0.5" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp.jstl:jstl-api:1.2" />
+          <element id="library" level="project" name="Maven: org.glassfish.web:jstl-impl:1.2" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:18.0" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/fn/mq/client/fnMqClient/0.0.3-SNAPSHOT/fnMqClient-0.0.3-20170410.055255-24.jar" output-file-name="fnMqClient-0.0.3-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.15" />
+          <element id="library" level="project" name="Maven: com.rabbitmq:amqp-client:3.3.4" />
+          <element id="library" level="project" name="Maven: org.springframework.amqp:spring-rabbit:1.3.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.retry:spring-retry:1.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.amqp:spring-amqp:1.3.9.RELEASE" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/feiniu/huntaway/huntaway-core/1.0-SNAPSHOT/huntaway-core-1.0-20170718.012938-16.jar" output-file-name="huntaway-core-1.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.6.1" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.6.1" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/feiniu/commons/fn-commons-config/0.0.1-SNAPSHOT/fn-commons-config-0.0.1-20170419.092551-5.jar" output-file-name="fn-commons-config-0.0.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/fcc-base/fcc-client-core/0.0.1-SNAPSHOT/fcc-client-core-0.0.1-20170606.024908-26.jar" output-file-name="fcc-client-core-0.0.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/fcc-base/fcc-core/0.0.2-SNAPSHOT/fcc-core-0.0.2-20170510.071632-19.jar" output-file-name="fcc-core-0.0.2-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.7" />
+          <element id="library" level="project" name="Maven: org.reflections:reflections:0.9.9-RC1" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.16.1-GA" />
+          <element id="library" level="project" name="Maven: org.apache.kafka:kafka_2.9.2:0.8.1.1" />
+          <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.9.2" />
+          <element id="library" level="project" name="Maven: com.yammer.metrics:metrics-core:2.2.0" />
+          <element id="library" level="project" name="Maven: org.xerial.snappy:snappy-java:1.0.5" />
+          <element id="library" level="project" name="Maven: net.sf.jopt-simple:jopt-simple:3.2" />
+          <element id="library" level="project" name="Maven: com.101tec:zkclient:0.3" />
+          <element id="archive" name="rt_b2b_service_module_default-1.0.0-SNAPSHOT.jar">
+            <element id="module-output" name="rt_b2b_service_module_default" />
+          </element>
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/feiniu/soa/commodity/commodity_message/0.0.1-SNAPSHOT/commodity_message-0.0.1-20160727.030638-15.jar" output-file-name="commodity_message-0.0.1-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.feiniu.kafka.client:fnkafkaclient:0.2.0" />
+          <element id="library" level="project" name="Maven: org.apache.avro:avro:1.7.7" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.13" />
+          <element id="library" level="project" name="Maven: com.thoughtworks.paranamer:paranamer:2.3" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-compress:1.4.1" />
+          <element id="library" level="project" name="Maven: org.tukaani:xz:1.0" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.3.6" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.3.3" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/rt_b2b_service_web/target/rtbtobservice/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="rt_b2b_service_web/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rt_b2b_service_common/rt_b2b_service_common.iml" filepath="$PROJECT_DIR$/rt_b2b_service_common/rt_b2b_service_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rt_b2b_service_module_default/rt_b2b_service_module_default.iml" filepath="$PROJECT_DIR$/rt_b2b_service_module_default/rt_b2b_service_module_default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rt_b2b_service_parent.iml" filepath="$PROJECT_DIR$/rt_b2b_service_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rt_b2b_service_web/rt_b2b_service_web.iml" filepath="$PROJECT_DIR$/rt_b2b_service_web/rt_b2b_service_web.iml" />
+    </modules>
+  </component>
+</project>
